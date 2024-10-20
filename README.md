@@ -2,9 +2,10 @@
 
 <h3> About Me </h3>
 
-    🎓   Studying Computer Science, majoring in Software Engineering at Edith Cowan University, Western Australia.
-    🌱   Learning more about software development, cybersecurity, and data structures to build a foundation for a career in Software Engineering.
-    📅   Actively seeking internships and job opportunities ahead of my graduation in mid-2025.
+- 💻 I ~like~ **love** coding
+- 🎓 Studying Computer Science, majoring in Software Engineering at Edith Cowan University, Western Australia.
+- 🌱 Learning more about software development, cybersecurity, and data structures to build a foundation for a career in Software Engineering.
+- 📅 Actively seeking internships and job opportunities ahead of my graduation in mid-2025.
 
 <h3>Tech Stack</h3>
 
